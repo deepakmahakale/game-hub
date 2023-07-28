@@ -16,14 +16,20 @@ Done. Now run:
   npm run dev
 ```
 
-Install dependencies
+### Install dependencies
 
 ```sh
 npm i
 ```
 
-Start the server
+### Start the server
 
 ```sh
 npm run dev
+```
+
+### Install Chakra UI
+
+```sh
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
